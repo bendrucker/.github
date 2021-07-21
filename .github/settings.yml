@@ -1,8 +1,5 @@
 
 repository:
-  name: .github
-  description: Default GitHub settings
-
   private: false
 
   has_issues: true
